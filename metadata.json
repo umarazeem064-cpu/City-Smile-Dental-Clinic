@@ -1,0 +1,6 @@
+{
+  "name": "City Smile Dental Clinic",
+  "description": "Painless dental care, cosmetic dentistry, braces, implants, and root canal specialists at MDA Chowk, Katchehry Road, Multan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
